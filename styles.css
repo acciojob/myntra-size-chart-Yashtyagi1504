@@ -1,2 +1,25 @@
-
-/* Your CSS Code here. */
+.right{
+	text-align:right
+}
+.red{
+	background-color:#C0504D;
+	color:white
+}
+.lightRed{
+	background-color:#DA9694;
+	color:white;
+}
+.light{
+	background-color:#F2DCDB;
+}
+.dark{
+	background-color:#D9D9D9;
+}
+table{
+	width:100%;
+	border-collapse:collapse;
+	border:1px solid black;
+}
+th,td{
+	border:1px solid black;
+}
